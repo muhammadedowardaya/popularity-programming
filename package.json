@@ -1,0 +1,12 @@
+{
+    "name": "popularity_programming",
+    "version": "1.0.0",
+    "description": "melihat popularitas bahasa pemrograman",
+    "main": "app.py",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "streamlit run app.py"
+    },
+    "author": "Muhammad Edo Wardaya",
+    "license": "ISC"
+}
